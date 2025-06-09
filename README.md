@@ -18,7 +18,7 @@ This is a Node.js/Express chatbot that uses the OpenAI API and a custom knowledg
 ### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/darkendord/cat_chat_bot.git
 cd OpenAITest/server
 ```
 
